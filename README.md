@@ -29,7 +29,7 @@ Returns a JSON response with the following format:
     {
       "id": "38z8h89hio", // Unique ID
       "createdAt": 1625639220,
-      "category": 7,
+      "category": 7, // 1 = Programming, 2 = Design, 4 = DevOps & SysAdmin, 5 = Management & Finance, 6 = Product, 7 = Support, 8 = Sales & Marketing, 9 = Other
       "title": "Job Title",
       "type": "fullTime or contract",
       "company": "Company Name",
