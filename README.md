@@ -34,10 +34,10 @@ Returns a JSON response with the following format:
       "type": "fullTime or contract",
       "company": "Company Name",
       "region": "anywhere", //  anywhere, us, canada, europe, north-america, south-america, amer, asia, africa, australia, uk, emea, apac, other
-      "url": "https://remotewx.com/remote-jobs/circleci-senior-support-engineer-japan-apac",
-      "logo": "https://remotewx.com/assets/6fENFRrWhp-1625563835",
+      "url": "https://remotewx.com/remote-jobs/company-name-position-title",
+      "logo": "https://remotewx.com/assets/logos/6fENFRrWhp-1625563835.png", // soon .png will be replaced by .webp
       "description": "Full HTML description",
-      "salary": "$10.000 - $200.000" // in USD or null
+      "salary": "$10.000 - $200.000" // Annual in USD or null
     }
   ],
   "totalRows": 1 // number of results
