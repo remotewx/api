@@ -35,7 +35,7 @@ Returns a JSON response with the following format:
       "company": "Company Name",
       "region": "anywhere", //  anywhere, us, canada, europe, north-america, south-america, amer, asia, africa, australia, uk, emea, apac, other
       "url": "https://remotewx.com/remote-jobs/company-name-position-title",
-      "logo": "https://remotewx.com/assets/logos/6fENFRrWhp-1625563835.png", // soon .png will be replaced by .webp
+      "logo": "https://remotewx.com/assets/logos/6fENFRrWhp-1625563835.webp",
       "description": "Full HTML description",
       "salary": "$10.000 - $200.000" // Annual in USD or null
     }
